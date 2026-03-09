@@ -23,6 +23,6 @@ This repository serves as a centralized portfolio for our various custom softwar
 
 <!-- PROJECTS-LIST:START -->
 1. [Beatport Automation Tool](./beatport-automation):
-Automated Beatport account creation, bulk purchasing, and PDF receipt generation — with Cloudflare Turnstile bypass, proxy support, and a rich terminal UI.
+Automated Beatport account creation, bulk purchasing, and PDF receipt generation: with Cloudflare Turnstile bypass, proxy support, and a rich terminal UI.
 
 <!-- PROJECTS-LIST:END -->
