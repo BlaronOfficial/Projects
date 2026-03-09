@@ -1,6 +1,6 @@
 # Beatport Automation Tool
 
-Automated Beatport account creation, bulk purchasing, and PDF receipt generation — with Cloudflare Turnstile bypass, proxy support, and a rich terminal UI.
+Automated Beatport account creation, bulk purchasing, and PDF receipt generation: with Cloudflare Turnstile bypass, proxy support, and a rich terminal UI.
 
 ---
 
@@ -283,11 +283,3 @@ If your proxy rotates IPs per session (e.g., residential rotating proxies), yes.
 **Abir Hasan**
 - GitHub: [github.com/AbirHasan2005](https://github.com/AbirHasan2005)
 - Telegram: [t.me/AbirHasan2005](https://t.me/AbirHasan2005)
-
----
-
-## License & Legal
-
-This software is proprietary and commercially licensed. By using this tool, you agree to the terms outlined in the [LICENSE](LICENSE) file, which includes the License Agreement, Terms of Service, Confidentiality & Anti-Redistribution Policy, and Privacy Policy.
-
-**Unauthorized redistribution of this software is strictly prohibited and will result in legal action.**
