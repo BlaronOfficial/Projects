@@ -25,4 +25,7 @@ This repository serves as a centralized portfolio for our various custom softwar
 1. [Beatport Automation Tool](./beatport-automation):
 Automated Beatport account creation, bulk purchasing, and PDF receipt generation: with Cloudflare Turnstile bypass, proxy support, and a rich terminal UI.
 
+2. [Ultimate Lead Generator Tool](./lead-gen):
+Welcome to the **Ultimate Lead Generator Tool**—your strategic partner in unlocking exponential growth!
+
 <!-- PROJECTS-LIST:END -->
